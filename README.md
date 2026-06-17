@@ -1,16 +1,16 @@
-\# 📖 HTML Learning Notes
+# 📖 Kelas Terbuka - HTML Learning Notes
 
 
 
-Repository ini berisi catatan dan latihan HTML yang telah saya pelajari selama proses belajar web development.
+Repository ini berisi catatan dan latihan HTML yang telah saya pelajari selama proses belajar web development dari channel youtube Kelas Terbuka - Basic Web Dev Series.
 
 
 
-\## 📚 Sesi 1 - Dasar Teks
+## 📚 Sesi 1 - Heading & Paragraph
 
 
 
-\### `<h>`
+### `<h>`
 
 
 
@@ -18,7 +18,7 @@ Digunakan untuk membuat heading atau judul pada halaman web. Tersedia dari `<h1>
 
 
 
-\### `<p>`
+### `<p>`
 
 
 
@@ -26,7 +26,7 @@ Digunakan untuk membuat paragraf.
 
 
 
-\### `<b>`
+### `<b>`
 
 
 
@@ -34,7 +34,7 @@ Digunakan untuk menampilkan teks dengan format tebal (bold).
 
 
 
-\### `<i>`
+### `<i>`
 
 
 
@@ -42,15 +42,15 @@ Digunakan untuk menampilkan teks dengan format miring (italic).
 
 
 
-\---
+---
 
 
 
-\## 📚 Sesi 2 - Format Teks Lanjutan
+## 📚 Sesi 2 - Underline, Subscript, dan Superscript
 
 
 
-\### `<u>`
+### `<u>`
 
 
 
@@ -58,7 +58,7 @@ Digunakan untuk memberikan garis bawah pada teks (underline).
 
 
 
-\### `<sup>`
+### `<sup>`
 
 
 
@@ -78,7 +78,7 @@ x<sup>2</sup>
 
 
 
-\### `<sub>`
+### `<sub>`
 
 
 
@@ -98,15 +98,15 @@ H<sub>2</sub>O
 
 
 
-\---
+---
 
 
 
-\## 📚 Sesi 3 - Pemisah dan Baris Baru
+## 📚 Sesi 3 - Line Break dan Horizontal Rule
 
 
 
-\### `<br>`
+### `<br>`
 
 
 
@@ -114,7 +114,7 @@ Digunakan untuk membuat pindah baris tanpa membuat paragraf baru.
 
 
 
-\### `<hr>`
+### `<hr>`
 
 
 
@@ -122,11 +122,11 @@ Digunakan untuk membuat garis horizontal sebagai pemisah antar bagian konten.
 
 
 
-\---
+---
 
 
 
-\## 🎯 Progress Belajar
+## 🎯 Progress Belajar
 
 
 
@@ -150,7 +150,7 @@ Digunakan untuk membuat garis horizontal sebagai pemisah antar bagian konten.
 
 
 
-\---
+---
 
 
 
