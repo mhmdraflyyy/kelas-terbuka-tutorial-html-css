@@ -116,41 +116,72 @@ Digunakan untuk membuat pindah baris tanpa membuat paragraf baru.
 
 ### `<hr>`
 
-
-
 Digunakan untuk membuat garis horizontal sebagai pemisah antar bagian konten.
-
-
 
 ---
 
+## 📚 Sesi 4 - Strong, Emphasis, Quote, dan Blockquote
 
+### `<strong>`
+
+Digunakan untuk memberikan penekanan penting pada teks. Secara tampilan biasanya terlihat tebal, mirip seperti `<b>`, tetapi `<strong>` memiliki makna bahwa teks tersebut penting.
+
+Contoh:
+
+```html
+<strong>Belajar HTML itu penting.</strong>
+```
+
+### `<em>`
+
+Digunakan untuk memberikan penekanan pada teks. Secara tampilan biasanya terlihat miring, mirip seperti `<i>`, tetapi `<em>` memiliki makna penekanan pada isi teks.
+
+Contoh:
+
+```html
+<em>HTML adalah dasar dari pembuatan website.</em>
+```
+
+### `<q>`
+
+Digunakan untuk membuat kutipan pendek di dalam satu baris. Browser biasanya akan otomatis menambahkan tanda kutip pada teks.
+
+Contoh:
+
+```html
+<p>Guru saya berkata, <q>Belajar coding harus konsisten.</q></p>
+```
+
+### `<blockquote>`
+
+Digunakan untuk membuat kutipan panjang atau kutipan yang ditampilkan dalam blok tersendiri.
+
+Contoh:
+
+```html
+<blockquote>
+  Belajar web development membutuhkan latihan, konsistensi, dan rasa ingin tahu.
+</blockquote>
+```
+
+---
 
 ## 🎯 Progress Belajar
 
+* [x] Heading (`<h>`)
+* [x] Paragraph (`<p>`)
+* [x] Bold (`<b>`)
+* [x] Italic (`<i>`)
+* [x] Underline (`<u>`)
+* [x] Superscript (`<sup>`)
+* [x] Subscript (`<sub>`)
+* [x] Line Break (`<br>`)
+* [x] Horizontal Rule (`<hr>`)
+* [x] Strong (`<strong>`)
+* [x] Emphasis (`<em>`)
+* [x] Inline Quote (`<q>`)
+* [x] Blockquote (`<blockquote>`)
 
-
-\* \[x] Heading (`<h>`)
-
-\* \[x] Paragraph (`<p>`)
-
-\* \[x] Bold (`<b>`)
-
-\* \[x] Italic (`<i>`)
-
-\* \[x] Underline (`<u>`)
-
-\* \[x] Superscript (`<sup>`)
-
-\* \[x] Subscript (`<sub>`)
-
-\* \[x] Line Break (`<br>`)
-
-\* \[x] Horizontal Rule (`<hr>`)
-
-
-
----
 
 
 
