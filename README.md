@@ -166,6 +166,50 @@ Contoh:
 
 ---
 
+## 📚 Sesi 5 - Extra Tags
+
+### `<abbr>`
+
+Digunakan untuk menampilkan singkatan atau kepanjangan dari suatu istilah. Biasanya digunakan bersama atribut `title`, sehingga saat kursor diarahkan ke teks, akan muncul penjelasan singkatnya.
+
+Contoh:
+
+```html
+<abbr title="HyperText Markup Language">HTML</abbr>
+```
+
+### `<cite>`
+
+Digunakan untuk menandai judul karya, seperti buku, artikel, film, lagu, atau sumber referensi.
+
+Contoh:
+
+```html
+<p>Saya belajar HTML dari <cite>Kelas Terbuka - Basic Web Dev Series</cite>.</p>
+```
+
+### `<dfn>`
+
+Digunakan untuk menandai istilah yang sedang didefinisikan atau dijelaskan.
+
+Contoh:
+
+```html
+<p><dfn>HTML</dfn> adalah bahasa markup yang digunakan untuk membuat struktur halaman web.</p>
+```
+
+### `<del>`
+
+Digunakan untuk menampilkan teks yang sudah dihapus atau tidak digunakan lagi. Biasanya browser akan menampilkan teks dengan garis coret.
+
+Contoh:
+
+```html
+<p>Harga lama: <del>Rp50.000</del></p>
+```
+
+---
+
 ## 🎯 Progress Belajar
 
 * [x] Heading (`<h>`)
@@ -181,9 +225,10 @@ Contoh:
 * [x] Emphasis (`<em>`)
 * [x] Inline Quote (`<q>`)
 * [x] Blockquote (`<blockquote>`)
-
-
-
+* [x] Abbreviation (`<abbr>`)
+* [x] Citation (`<cite>`)
+* [x] Definition (`<dfn>`)
+* [x] Deleted Text (`<del>`)
 
 🚀 Repository ini akan terus diperbarui seiring bertambahnya materi HTML yang saya pelajari.
 
