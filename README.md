@@ -210,9 +210,106 @@ Contoh:
 
 ---
 
+## 📚 Sesi 7 - List
+
+Pada sesi ini saya mempelajari beberapa jenis list dalam HTML, yaitu ordered list, unordered list, list item, dan definition list.
+
+### `<ol>`
+
+Digunakan untuk membuat daftar yang memiliki urutan atau nomor. Biasanya digunakan ketika urutan data itu penting.
+
+Contoh:
+
+```html
+<ol>
+  <li>Pasta 1 bungkus</li>
+  <li>Daging cincang 1 kg</li>
+  <li>Tomat 0.25 kg</li>
+</ol>
+```
+
+### `<ul>`
+
+Digunakan untuk membuat daftar yang tidak memiliki urutan. Biasanya ditampilkan dengan tanda bullet atau titik.
+
+Contoh:
+
+```html
+<ul>
+  <li>Pasta 1 bungkus</li>
+  <li>Daging cincang 1 kg</li>
+  <li>Tomat 0.25 kg</li>
+</ul>
+```
+
+### `<li>`
+
+Digunakan untuk membuat item atau isi dari sebuah list. Tag ini digunakan di dalam `<ol>` atau `<ul>`.
+
+Contoh:
+
+```html
+<ul>
+  <li>Bawang merah 2 siung</li>
+  <li>Bawang putih 2 siung</li>
+</ul>
+```
+
+### Nested List
+
+Nested list adalah list yang berada di dalam list lain. Biasanya digunakan untuk membuat daftar bertingkat.
+
+Contoh:
+
+```html
+<ul>
+  <li>Bumbu dapur
+    <ol>
+      <li>Garam</li>
+      <li>Gula</li>
+    </ol>
+  </li>
+</ul>
+```
+
+### `<dl>`
+
+Digunakan untuk membuat definition list, yaitu daftar yang berisi istilah dan penjelasannya.
+
+Contoh:
+
+```html
+<dl>
+  <dt>Siapkan Pasta</dt>
+  <dd>Rebus spaghetti hingga matang, lalu angkat dan tiriskan.</dd>
+</dl>
+```
+
+### `<dt>`
+
+Digunakan untuk menuliskan istilah atau judul yang akan dijelaskan dalam definition list.
+
+Contoh:
+
+```html
+<dt>Membuat saus spaghetti</dt>
+```
+
+### `<dd>`
+
+Digunakan untuk menuliskan penjelasan dari istilah yang ada pada `<dt>`.
+
+Contoh:
+
+```html
+<dd>Panaskan wajan, lalu tumis bawang putih dan bawang merah hingga harum.</dd>
+```
+
+---
+
 ## 🎯 Progress Belajar
 
-* [x] Heading (`<h>`)
+* [x] Heading (`<h1>` - `<h6>`)
 * [x] Paragraph (`<p>`)
 * [x] Bold (`<b>`)
 * [x] Italic (`<i>`)
@@ -229,6 +326,13 @@ Contoh:
 * [x] Citation (`<cite>`)
 * [x] Definition (`<dfn>`)
 * [x] Deleted Text (`<del>`)
+* [x] Ordered List (`<ol>`)
+* [x] Unordered List (`<ul>`)
+* [x] List Item (`<li>`)
+* [x] Definition List (`<dl>`)
+* [x] Definition Term (`<dt>`)
+* [x] Definition Description (`<dd>`)
+
 
 🚀 Repository ini akan terus diperbarui seiring bertambahnya materi HTML yang saya pelajari.
 
