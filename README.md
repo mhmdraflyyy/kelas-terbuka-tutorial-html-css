@@ -210,7 +210,7 @@ Contoh:
 
 ---
 
-## 🧪 Sesi Latihan - Text Formatting
+## 📚 Sesi 06 - Latihan HTML 1
 
 Pada sesi latihan ini, saya membuat halaman HTML sederhana berjudul **"The Story of Ucup"**. Latihan ini bertujuan untuk menerapkan beberapa tag HTML yang sudah dipelajari sebelumnya, terutama tag untuk membuat struktur teks, kutipan, format miring, sitasi, dan singkatan.
 
@@ -314,7 +314,7 @@ Contoh:
 
 ---
 
-# Kesimpulan Latihan
+## Kesimpulan Latihan
 
 Dari latihan ini, saya memahami bahwa HTML tidak hanya digunakan untuk menampilkan teks biasa, tetapi juga dapat digunakan untuk memberikan struktur dan makna pada teks. Tag seperti `<cite>`, `<q>`, `<blockquote>`, `<abbr>`, dan `<sub>` membantu membuat isi halaman menjadi lebih jelas, rapi, dan mudah dipahami.
 
