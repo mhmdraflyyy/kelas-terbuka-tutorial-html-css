@@ -210,6 +210,116 @@ Contoh:
 
 ---
 
+## 🧪 Sesi Latihan - Text Formatting
+
+Pada sesi latihan ini, saya membuat halaman HTML sederhana berjudul **"The Story of Ucup"**. Latihan ini bertujuan untuk menerapkan beberapa tag HTML yang sudah dipelajari sebelumnya, terutama tag untuk membuat struktur teks, kutipan, format miring, sitasi, dan singkatan.
+
+### 📌 Materi yang diterapkan
+
+Dalam latihan ini, beberapa tag HTML yang digunakan antara lain:
+
+### `<h1>` dan `<h2>`
+
+Digunakan untuk membuat judul utama dan subjudul pada cerita.
+
+Contoh:
+
+```html
+<h1>The Story of Ucup</h1>
+<h2>Chapter - 1</h2>
+```
+
+### `<p>`
+
+Digunakan untuk membuat paragraf cerita.
+
+Contoh:
+
+```html
+<p>Ucup telah melewati harinya selama sepuluh hari di kamarnya.</p>
+```
+
+### `<i>`
+
+Digunakan untuk membuat teks menjadi miring.
+
+Contoh:
+
+```html
+<i>cerita</i>
+```
+
+### `<cite>`
+
+Digunakan untuk menandai judul karya atau sumber referensi.
+
+Contoh:
+
+```html
+<cite>Lord of The Ring: Twin Tower</cite>
+```
+
+### `<q>`
+
+Digunakan untuk membuat kutipan pendek di dalam paragraf.
+
+Contoh:
+
+```html
+<q>My precious!!!</q>
+```
+
+### `<blockquote>`
+
+Digunakan untuk membuat kutipan panjang atau kutipan yang ditampilkan dalam bentuk blok.
+
+Contoh:
+
+```html
+<blockquote>
+  <i>Sekali teman, tetap teman.</i>
+</blockquote>
+```
+
+### `<abbr>`
+
+Digunakan untuk menampilkan singkatan dengan keterangan tambahan menggunakan atribut `title`.
+
+Contoh:
+
+```html
+<abbr title="Karbon Dioksida">CO</abbr><sub>2</sub>
+```
+
+### `<sub>`
+
+Digunakan untuk membuat teks kecil di bawah, biasanya digunakan pada rumus kimia.
+
+Contoh:
+
+```html
+CO<sub>2</sub>
+O<sub>2</sub>
+```
+
+### `<hr>`
+
+Digunakan untuk membuat garis horizontal sebagai pemisah antar bagian cerita.
+
+Contoh:
+
+```html
+<hr>
+```
+
+---
+
+# Kesimpulan Latihan
+
+Dari latihan ini, saya memahami bahwa HTML tidak hanya digunakan untuk menampilkan teks biasa, tetapi juga dapat digunakan untuk memberikan struktur dan makna pada teks. Tag seperti `<cite>`, `<q>`, `<blockquote>`, `<abbr>`, dan `<sub>` membantu membuat isi halaman menjadi lebih jelas, rapi, dan mudah dipahami.
+
+---
+
 ## 📚 Sesi 7 - List
 
 Pada sesi ini saya mempelajari beberapa jenis list dalam HTML, yaitu ordered list, unordered list, list item, dan definition list.
