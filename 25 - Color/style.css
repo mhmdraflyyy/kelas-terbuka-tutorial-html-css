@@ -1,0 +1,40 @@
+/* color */
+
+/* foreground color */
+
+/* color name */
+
+h1{
+    color: yellow;
+}
+
+/* hex code */
+
+h2 {
+    color: #ee3e80
+}
+
+/* rgb value */
+
+p {
+    color:rgb(242, 245, 244)
+}
+
+/* background color */
+
+body {
+    background-color: white;
+}
+
+h1 {
+    background-color: black
+}
+
+h2{
+    background-color: blue;
+}
+
+p {
+    background-color: rgb(252, 8, 61)
+}
+
