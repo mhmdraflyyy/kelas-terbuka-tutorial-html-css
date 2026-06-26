@@ -1,0 +1,39 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+/* Aturan Terakhir */
+i{
+    color: red;
+}
+
+i{
+    color: aqua; /*yang diambi ini*/
+}
+
+/* specific */
+
+b{
+    color:red;  /* Level 1*/
+}
+
+p b {
+    color: violet  !important; /* Level 3 (ini yng bakal dieksekusi*/
+}
+
+p b {
+    color: greenyellow; /* Level 2*/
+}
+
+p b {
+    font-size: 200%;
+}
+
+/* study casus */
+p {
+    font-size: 100%;
+}
+
+p#pendahuluan {
+    font-size: 75%; /* ini lebih spesific*/
+}
